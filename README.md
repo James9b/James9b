@@ -13,7 +13,7 @@
 - 🔭 **I’m currently working on:** Frontend projects leveraging React and modern web technologies.
 - 🌱 **I’m currently learning:** Backend Development.
 - 💼 **My expertise:** Crafting responsive and accessible UIs using React, Redux, and Tailwind CSS.
-- 🎯 **Goals for 2024:** Contribute to open-source projects, build end-to-end applications, and expand my backend skills.
+- 🎯 **Goals for 2024:** Contribute and build end-to-end applications, and expand my backend skills.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/tech-vid-b27203190/)
 
 ---
